@@ -125,7 +125,6 @@
 .input-group {
     display: flex;
     align-items: center;
-    background: white;
     border-radius: 5px;
     overflow: hidden;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -136,7 +135,7 @@
     border: none;
     font-size: 1rem;
     outline: none;
-    width: 180px;
+    width: 20rem;
 }
 
 .input-group img.icon {
@@ -155,7 +154,7 @@
     border-radius: 5px;
     font-size: 1rem;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+
     display: flex;
     align-items: center;
     justify-content: center;
